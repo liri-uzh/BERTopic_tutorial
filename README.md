@@ -6,4 +6,4 @@ The exercises show how to classifu text into topics out of text and visualise th
 
 The data used in the exercise is extracted from DharmaOverground, a meditation-related forum.
 
-Authors of the notebook are Teodora Vukovic and Tilia Ellendorf.
+Authors of the notebook are Tilia Ellendorf and Teodora Vukovic.
